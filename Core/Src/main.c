@@ -21,7 +21,8 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include "app_main.h" // Include the header for our application logic
+#include <stdio.h>    // Include stdio if using printf retargeting here
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -61,6 +62,19 @@ static void MX_USART2_UART_Init(void);
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
 
+// --- Place printf retargeting code here if not in syscalls.c ---
+#ifdef __GNUC__
+  #define PUTCHAR_PROTOTYPE int __io_putchar(int ch)
+#else
+  #define PUTCHAR_PROTOTYPE int fputc(int ch, FILE *f)
+#endif /* __GNUC__ */
+PUTCHAR_PROTOTYPE
+{
+  // Assumes DEBUG_UART_HANDLE is defined (e.g., huart2) and initialized
+  HAL_UART_Transmit(&DEBUG_UART_HANDLE, (uint8_t *)&ch, 1, HAL_MAX_DELAY);
+  return ch;
+}
+
 /* USER CODE END 0 */
 
 /**
@@ -95,7 +109,10 @@ int main(void)
   MX_USART1_UART_Init();
   MX_USART2_UART_Init();
   /* USER CODE BEGIN 2 */
-
+ 
+  // --- Call our main application function ---
+  Application_Main();
+ 
   /* USER CODE END 2 */
 
   /* Infinite loop */
@@ -103,7 +120,8 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-
+    // The main logic is now inside Application_Main's loop,
+    // so this loop might remain empty or handle background tasks.
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
