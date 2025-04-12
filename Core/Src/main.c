@@ -23,6 +23,7 @@
 /* USER CODE BEGIN Includes */
 #include "app_main.h" // Include the header for our application logic
 #include <stdio.h>    // Include stdio if using printf retargeting here
+#include "config.h"   // <<< ADD THIS LINE (assuming your file is config.h)
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
