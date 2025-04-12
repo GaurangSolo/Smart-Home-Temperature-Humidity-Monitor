@@ -63,7 +63,11 @@ void Application_Main(void);
 void Error_Handler(void);
 
 /* USER CODE BEGIN EFP */
-
+// --- ADD THESE EXTERN DECLARATIONS (CubeMX should do this!) ---
+extern I2C_HandleTypeDef hi2c1;
+extern UART_HandleTypeDef huart1;
+extern UART_HandleTypeDef huart2;
+// --- END OF EXTERN DECLARATIONS ---
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
