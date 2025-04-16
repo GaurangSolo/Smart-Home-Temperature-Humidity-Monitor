@@ -1,71 +1,63 @@
 #include "app_main.h"
-#include "sht31.h"     // Include sensor header
-#include "esp32_at.h"  // Include ESP32 AT command header
-#include "config.h"    // Include your configuration defines
-#include <stdio.h>     // For printf and sprintf
+#include "sht31.h"
+#include "esp32_at.h"
+#include "config.h"
+#include <stdio.h>
 
-// External peripheral handles declared in main.c
+// External peripheral handles declared in main.c / main.h
 extern I2C_HandleTypeDef SHT31_I2C_HANDLE;
-// Declare UART handles if needed directly here, though esp32_at.c uses the extern from config.h
-// extern UART_HandleTypeDef ESP32_UART_HANDLE;
-// extern UART_HandleTypeDef DEBUG_UART_HANDLE;
-
+// extern UART_HandleTypeDef ESP32_UART_HANDLE; // Referenced via config.h -> esp32_at.c
 
 /**
-  * @brief Main application entry point. Called from main() after HAL init.
-  * @param None
-  * @retval None
+  * @brief Main application logic.
   */
 void Application_Main(void) {
 
   float temperature, humidity;
   char temp_str[10];
   char humid_str[10];
-  char temp_topic[128]; // Buffer for MQTT topic string
-  char humid_topic[128]; // Buffer for MQTT topic string
+  char temp_topic[128];
+  char humid_topic[128];
   HAL_StatusTypeDef status;
-  uint8_t wifi_initialized = 0;
-  uint8_t mqtt_configured = 0;
+  uint8_t wifi_ok = 0;
+  uint8_t mqtt_ok = 0;
 
-  // Construct MQTT topics once
+  // Construct MQTT topics (using defines from config.h)
   sprintf(temp_topic, "%s/feeds/%s", AIO_USERNAME, AIO_TEMP_FEED_NAME);
   sprintf(humid_topic, "%s/feeds/%s", AIO_USERNAME, AIO_HUMID_FEED_NAME);
 
   printf("\r\n--- STM32 Smart Home Monitor Starting ---\r\n");
-  printf("Attempting to connect to WiFi: %s\r\n", WIFI_SSID);
 
   // --- Initialize WiFi ---
-  // Add retry logic here for robustness
+  printf("Attempting WiFi Connection...\r\n");
   status = ESP32_InitWiFi(WIFI_SSID, WIFI_PASSWORD);
   if (status == HAL_OK) {
-      wifi_initialized = 1;
-      printf("WiFi Initialized Successfully.\r\n");
+      wifi_ok = 1;
+      printf("WiFi Initialized.\r\n");
   } else {
-      printf("!!! Failed to connect to WiFi! Check SSID/Password. Halting. !!!\r\n");
-      // Handle error - maybe blink LED, reset ESP32, or just stop here
-      Error_Handler(); // Placeholder for critical error handling
+      printf("!!! WiFi Init Failed! Check Credentials/Connections. !!!\r\n");
+      // Consider adding robust retry or error indication here
   }
 
   // --- Configure MQTT ---
-  // This only needs to be done once after power-up/reset
-  if (wifi_initialized) {
+  if (wifi_ok) {
+      printf("Configuring MQTT...\r\n");
       status = ESP32_MQTT_Config(MQTT_CLIENT_ID, AIO_USERNAME, AIO_KEY);
       if (status == HAL_OK) {
-          mqtt_configured = 1;
-          printf("MQTT Configured Successfully.\r\n");
+          mqtt_ok = 1;
+          printf("MQTT Configured.\r\n");
       } else {
-          printf("!!! Failed to configure MQTT! Check AIO Credentials/AT Syntax. Halting. !!!\r\n");
-          Error_Handler();
+          printf("!!! MQTT Config Failed! Check AIO Credentials/AT Syntax. !!!\r\n");
       }
   }
 
-
   // --- Main Loop ---
   while (1) {
-    if (!wifi_initialized || !mqtt_configured) {
-        printf("System not initialized correctly. Halting loop.\r\n");
-        HAL_Delay(5000); // Prevent spamming logs if init failed
-        continue; // Skip the rest of the loop
+    if (!wifi_ok || !mqtt_ok) {
+        printf("System Init Failed. Delaying...\r\n");
+        HAL_Delay(10000); // Wait before potentially retrying init logic
+        // Consider adding re-initialization logic here
+        continue;
     }
 
     printf("\r\n-- Reading Sensor --\r\n");
@@ -79,42 +71,37 @@ void Application_Main(void) {
       sprintf(humid_str, "%.1f", humidity);
 
       printf("-- Connecting MQTT Broker --\r\n");
-      status = ESP32_MQTT_Connect("io.adafruit.com", 1883); // Use port 1883 for standard MQTT
+      status = ESP32_MQTT_Connect("io.adafruit.com", 1883);
 
       if (status == HAL_OK) {
         printf("-- Publishing Data --\r\n");
 
-        // Publish Temperature
         status = ESP32_MQTT_Publish(temp_topic, temp_str);
         if (status != HAL_OK) {
             printf("MQTT Publish Temp Failed! Status: %d\r\n", status);
-            // Consider error handling - maybe retry?
         } else {
              printf("Temp published.\r\n");
         }
         HAL_Delay(500); // Small delay between publishes
 
-        // Publish Humidity
         status = ESP32_MQTT_Publish(humid_topic, humid_str);
          if (status != HAL_OK) {
             printf("MQTT Publish Humid Failed! Status: %d\r\n", status);
-            // Consider error handling
          } else {
              printf("Humid published.\r\n");
          }
         HAL_Delay(500);
 
-        // Disconnect MQTT (optional, could keep connection open)
-        ESP32_MQTT_Disconnect();
+        ESP32_MQTT_Disconnect(); // Disconnect after publishing
 
       } else {
         printf("MQTT Connection Failed! Status: %d\r\n", status);
-        // Handle connection error (e.g., check WiFi, retry later)
+        // Consider trying to reconnect WiFi if MQTT fails repeatedly
       }
 
     } else {
       printf("Failed to read SHT31 sensor! Status: %d\r\n", status);
-      // Handle sensor read error (e.g., retry, indicate error state)
+      // Handle sensor read error
     }
 
     printf("-- Delaying for %lu ms --\r\n", (unsigned long)SENSOR_READ_INTERVAL);
