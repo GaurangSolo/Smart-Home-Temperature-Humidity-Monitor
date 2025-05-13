@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PESD5V0S1BL,315
+D Diode TVS Single BiDir 5V 130W 2Pin SOD NXP PESD5V0S1BL,315 Bi-Directional TVS Diode, 130W peak, 2-Pin SOD-882
+K
+F https://assets.nexperia.com/documents/data-sheet/PESD5V0S1BL.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,1167 @@
+ERC report (2025-04-17 2:26:08 PM, Encoding UTF8)
+
+***** Sheet /
+
+***** Sheet /Power management/
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(125.7300 mm, 91.4400 mm): Symbol R8 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(125.7300 mm, 91.4400 mm): Symbol R8 Pin 2 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(110.4900 mm, 95.2500 mm): Symbol #PWR037 Hidden pin 1 [GND, Power input, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(110.4900 mm, 95.2500 mm): Symbol #PWR037 Hidden pin 1 [GND, Power input, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(90.1700 mm, 81.2800 mm): Symbol #PWR013 Hidden pin 1 [+BATT, Power input, Line]
+    @(69.8500 mm, 140.9700 mm): Symbol J3 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(77.4700 mm, 149.8600 mm): Symbol #PWR09 Hidden pin 1 [GND, Power input, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(77.4700 mm, 149.8600 mm): Symbol #PWR09 Hidden pin 1 [GND, Power input, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(165.1000 mm, 58.4200 mm): Symbol C22 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(165.1000 mm, 60.9600 mm): Symbol #PWR038 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(158.7500 mm, 87.6300 mm): Symbol R5 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(266.7000 mm, 39.3700 mm): Symbol C13 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(278.1300 mm, 39.3700 mm): Symbol C8 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(168.9100 mm, 45.7200 mm): Symbol U4 Pin 37 [VDDA1, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(168.9100 mm, 48.2600 mm): Symbol U4 Pin 40 [VDDA2, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 140.9700 mm): Symbol J3 Pin 2 [2, Unspecified, Line]
+    @(110.4900 mm, 78.7400 mm): Symbol #PWR036 Hidden pin 1 [+BATT, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Power output are connected
+    ; Severity: warning
+    @(69.8500 mm, 140.9700 mm): Symbol J3 Pin 2 [2, Unspecified, Line]
+    @(91.4400 mm, 134.6200 mm): Symbol #FLG03 Pin 1 [pwr, Power output, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 140.9700 mm): Symbol J3 Pin 2 [2, Unspecified, Line]
+    @(125.7300 mm, 82.5500 mm): Symbol R7 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(175.2600 mm, 39.3700 mm): Symbol C19 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(168.9100 mm, 50.8000 mm): Symbol U4 Pin 23 [VDD_SPI, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(168.9100 mm, 53.3400 mm): Symbol U4 Pin 5 [VDDPST1, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(224.7900 mm, 72.3900 mm): Symbol #PWR033 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Power output and Unspecified are connected
+    ; Severity: warning
+    @(91.4400 mm, 147.3200 mm): Symbol #FLG04 Pin 1 [pwr, Power output, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; Severity: error
+    @(91.4400 mm, 147.3200 mm): Symbol #FLG04 Pin 1 [pwr, Power output, Line]
+    @(78.7400 mm, 149.8600 mm): Symbol U2 Pin 4 [GND, Power output, Line]
+[pin_to_pin]: Pins of type Power output and Unspecified are connected
+    ; Severity: warning
+    @(91.4400 mm, 147.3200 mm): Symbol #FLG04 Pin 1 [pwr, Power output, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power output and Bidirectional are connected
+    ; Severity: warning
+    @(91.4400 mm, 147.3200 mm): Symbol #FLG04 Pin 1 [pwr, Power output, Line]
+    @(48.2600 mm, 59.6900 mm): Symbol U1 Pin 5 [SDO, Bidirectional, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(168.9100 mm, 55.8800 mm): Symbol U4 Pin 28 [VDDPST2, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(224.7900 mm, 71.1200 mm): Symbol C16 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(210.8200 mm, 72.3900 mm): Symbol #PWR032 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(242.5700 mm, 73.6600 mm): Symbol U5 Pin 2 [GND, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(210.8200 mm, 71.1200 mm): Symbol C15 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(245.1100 mm, 73.6600 mm): Symbol U5 Pin 4 [GND, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(240.0300 mm, 73.6600 mm): Symbol U5 Pin 6 [GND, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(247.6500 mm, 73.6600 mm): Symbol #PWR034 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(247.6500 mm, 73.6600 mm): Symbol U5 Pin 5 [GND, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(193.0400 mm, 151.1300 mm): Symbol C10 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(181.6100 mm, 153.6700 mm): Symbol #PWR026 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(168.9100 mm, 111.7600 mm): Symbol U4 Pin 41 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(66.0400 mm, 85.0900 mm): Symbol C12 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power output are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(78.7400 mm, 149.8600 mm): Symbol U2 Pin 4 [GND, Power output, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(73.6600 mm, 156.2100 mm): Symbol #PWR025 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(58.4200 mm, 115.5700 mm): Symbol #PWR042 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(77.4700 mm, 134.6200 mm): Symbol #PWR08 Hidden pin 1 [+BATT, Power input, Line]
+    @(69.8500 mm, 140.9700 mm): Symbol J3 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(91.4400 mm, 118.1100 mm): Symbol C4 Pin 2 [Passive, Line]
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(91.4400 mm, 118.1100 mm): Symbol C4 Pin 2 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(91.4400 mm, 118.1100 mm): Symbol C4 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(91.4400 mm, 123.1900 mm): Symbol #PWR015 Hidden pin 1 [GND, Power input, Line]
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(91.4400 mm, 123.1900 mm): Symbol #PWR015 Hidden pin 1 [GND, Power input, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(91.4400 mm, 123.1900 mm): Symbol #PWR015 Hidden pin 1 [GND, Power input, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(77.4700 mm, 149.8600 mm): Symbol #PWR09 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Power output are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(91.4400 mm, 147.3200 mm): Symbol #FLG04 Pin 1 [pwr, Power output, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(110.4900 mm, 95.2500 mm): Symbol #PWR037 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(125.7300 mm, 91.4400 mm): Symbol R8 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(55.8800 mm, 55.8800 mm): Symbol J1 Pin 5 [5, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(55.8800 mm, 60.9600 mm): Symbol J1 Pin 9 [9, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(165.1000 mm, 83.8200 mm): Symbol R9 Pin 1 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(165.1000 mm, 93.9800 mm): Symbol #PWR04 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(82.5500 mm, 80.0100 mm): Symbol IC1 Pin 4 [VSS/VSSA, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(53.3400 mm, 91.4400 mm): Symbol C25 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(66.0400 mm, 95.2500 mm): Symbol #PWR030 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(40.6400 mm, 91.4400 mm): Symbol C24 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(26.6700 mm, 91.4400 mm): Symbol C23 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(53.3400 mm, 64.7700 mm): Symbol #PWR040 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(215.9000 mm, 39.3700 mm): Symbol C20 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(203.2000 mm, 39.3700 mm): Symbol C18 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(266.7000 mm, 48.2600 mm): Symbol #PWR022 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(189.2300 mm, 39.3700 mm): Symbol C17 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(25.4000 mm, 101.6000 mm): Symbol R6 Pin 1 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(81.2800 mm, 74.9300 mm): Symbol #PWR020 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(78.7400 mm, 67.3100 mm): Symbol U1 Pin 7 [GND__1, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(78.7400 mm, 64.7700 mm): Symbol U1 Pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(53.3400 mm, 59.6900 mm): Symbol C26 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(228.6000 mm, 39.3700 mm): Symbol C21 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(241.3000 mm, 39.3700 mm): Symbol C7 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(254.0000 mm, 39.3700 mm): Symbol C14 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(181.6100 mm, 151.1300 mm): Symbol C9 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(185.4200 mm, 114.3000 mm): Symbol #PWR024 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(66.0400 mm, 87.6300 mm): Symbol #PWR028 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(58.4200 mm, 111.7600 mm): Symbol R11 Pin 1 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(59.6900 mm, 52.0700 mm): Symbol #PWR044 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(59.6900 mm, 52.0700 mm): Symbol C27 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(21.5900 mm, 85.0900 mm): Symbol C11 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(21.5900 mm, 87.6300 mm): Symbol #PWR027 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(21.5900 mm, 104.1400 mm): Symbol #PWR031 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Bidirectional are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(48.2600 mm, 59.6900 mm): Symbol U1 Pin 5 [SDO, Bidirectional, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(81.2800 mm, 59.6900 mm): Symbol C5 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(92.7100 mm, 59.6900 mm): Symbol C6 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(55.8800 mm, 53.3400 mm): Symbol J1 Pin 3 [3, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+    @(44.4500 mm, 64.7700 mm): Symbol #PWR019 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(35.5600 mm, 118.1100 mm): Symbol C1 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(35.5600 mm, 118.1100 mm): Symbol C1 Pin 2 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(35.5600 mm, 118.1100 mm): Symbol C1 Pin 2 [Passive, Line]
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(35.5600 mm, 120.6500 mm): Symbol #PWR03 Hidden pin 1 [GND, Power input, Line]
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(35.5600 mm, 120.6500 mm): Symbol #PWR03 Hidden pin 1 [GND, Power input, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(74.9300 mm, 119.3800 mm): Symbol U3 Pin 2 [GND, Power input, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error
+    @(49.5300 mm, 109.2200 mm): Symbol U3 Pin 1 [VIN, Power input, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(35.5600 mm, 120.6500 mm): Symbol #PWR03 Hidden pin 1 [GND, Power input, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(74.9300 mm, 119.3800 mm): Symbol U3 Pin 2 [GND, Power input, Line]
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(74.9300 mm, 119.3800 mm): Symbol U3 Pin 2 [GND, Power input, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(72.3900 mm, 90.1700 mm): Symbol S1 Pin 6 [6, Passive, Line]
+    @(69.8500 mm, 140.9700 mm): Symbol J3 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(52.0700 mm, 90.1700 mm): Symbol S1 Pin 3 [3, Passive, Line]
+    @(69.8500 mm, 140.9700 mm): Symbol J3 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(35.5600 mm, 81.2800 mm): Symbol #PWR01 Hidden pin 1 [+BATT, Power input, Line]
+    @(69.8500 mm, 140.9700 mm): Symbol J3 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(72.3900 mm, 60.9600 mm): Symbol #PWR07 Hidden pin 1 [GND, Power input, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(72.3900 mm, 60.9600 mm): Symbol #PWR07 Hidden pin 1 [GND, Power input, Line]
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(72.3900 mm, 60.9600 mm): Symbol #PWR07 Hidden pin 1 [GND, Power input, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(35.5600 mm, 40.6400 mm): Symbol J2 Pin 8 [MH2, Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(35.5600 mm, 40.6400 mm): Symbol J2 Pin 8 [MH2, Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(35.5600 mm, 38.1000 mm): Symbol J2 Pin 7 [MH1, Passive, Line]
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(35.5600 mm, 38.1000 mm): Symbol J2 Pin 7 [MH1, Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(35.5600 mm, 38.1000 mm): Symbol J2 Pin 7 [MH1, Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(35.5600 mm, 45.7200 mm): Symbol J2 Pin 10 [MH4, Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(35.5600 mm, 40.6400 mm): Symbol J2 Pin 8 [MH2, Passive, Line]
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(35.5600 mm, 43.1800 mm): Symbol J2 Pin 9 [MH3, Passive, Line]
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(35.5600 mm, 43.1800 mm): Symbol J2 Pin 9 [MH3, Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(35.5600 mm, 43.1800 mm): Symbol J2 Pin 9 [MH3, Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(35.5600 mm, 45.7200 mm): Symbol J2 Pin 10 [MH4, Passive, Line]
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(35.5600 mm, 45.7200 mm): Symbol J2 Pin 10 [MH4, Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(35.5600 mm, 57.1500 mm): Symbol R1 Pin 1 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(35.5600 mm, 57.1500 mm): Symbol R1 Pin 1 [Passive, Line]
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(35.5600 mm, 57.1500 mm): Symbol R1 Pin 1 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(66.0400 mm, 40.6400 mm): Symbol J2 Pin A12 [GND_1, Passive, Line]
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(66.0400 mm, 40.6400 mm): Symbol J2 Pin A12 [GND_1, Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(66.0400 mm, 40.6400 mm): Symbol J2 Pin A12 [GND_1, Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(78.7400 mm, 57.1500 mm): Symbol C2 Pin 2 [Passive, Line]
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(78.7400 mm, 57.1500 mm): Symbol C2 Pin 2 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(78.7400 mm, 57.1500 mm): Symbol C2 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(66.0400 mm, 48.2600 mm): Symbol J2 Pin B12 [GND_2, Passive, Line]
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(66.0400 mm, 48.2600 mm): Symbol J2 Pin B12 [GND_2, Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(66.0400 mm, 48.2600 mm): Symbol J2 Pin B12 [GND_2, Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(104.1400 mm, 43.1800 mm): Symbol R2 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(104.1400 mm, 43.1800 mm): Symbol R2 Pin 2 [Passive, Line]
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(104.1400 mm, 43.1800 mm): Symbol R2 Pin 2 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(88.9000 mm, 57.1500 mm): Symbol C3 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(88.9000 mm, 57.1500 mm): Symbol C3 Pin 2 [Passive, Line]
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(88.9000 mm, 57.1500 mm): Symbol C3 Pin 2 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(118.1100 mm, 58.4200 mm): Symbol D1 Pin 1 [K1, Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(118.1100 mm, 58.4200 mm): Symbol D1 Pin 1 [K1, Passive, Line]
+    @(69.8500 mm, 143.5100 mm): Symbol J3 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(118.1100 mm, 58.4200 mm): Symbol D1 Pin 1 [K1, Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+
+***** Sheet /MCU_core/
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(158.7500 mm, 87.6300 mm): Symbol R5 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(158.7500 mm, 87.6300 mm): Symbol R5 Pin 2 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[label_dangling]: Label not connected to anything
+    ; Severity: error
+    @(148.5900 mm, 99.0600 mm): Global Label 'ESP_BOOT2'
+[label_dangling]: Label not connected to anything
+    ; Severity: error
+    @(148.5900 mm, 96.5200 mm): Global Label 'ESP_BOOT1'
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(165.1000 mm, 83.8200 mm): Symbol R9 Pin 1 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(165.1000 mm, 93.9800 mm): Symbol #PWR04 Hidden pin 1 [GND, Power input, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(165.1000 mm, 93.9800 mm): Symbol #PWR04 Hidden pin 1 [GND, Power input, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(165.1000 mm, 83.8200 mm): Symbol R9 Pin 1 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(165.1000 mm, 58.4200 mm): Symbol C22 Pin 2 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(165.1000 mm, 58.4200 mm): Symbol C22 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(165.1000 mm, 60.9600 mm): Symbol #PWR038 Hidden pin 1 [GND, Power input, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(165.1000 mm, 60.9600 mm): Symbol #PWR038 Hidden pin 1 [GND, Power input, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; Severity: warning
+    @(88.9000 mm, 110.4900 mm): Global Label 'UART2tx_DEBUG'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; Severity: warning
+    @(88.9000 mm, 113.0300 mm): Global Label 'UART2rx_DEBUG'
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(82.5500 mm, 80.0100 mm): Symbol IC1 Pin 4 [VSS/VSSA, Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(82.5500 mm, 80.0100 mm): Symbol IC1 Pin 4 [VSS/VSSA, Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[lib_symbol_issues]: Symbol 'STM32C051G8U6' not found in symbol library 'GS_Connector'
+    ; Severity: warning
+    @(82.5500 mm, 72.3900 mm): Symbol IC1 [STM32C051G8U6]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(53.3400 mm, 91.4400 mm): Symbol C25 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(53.3400 mm, 91.4400 mm): Symbol C25 Pin 2 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(40.6400 mm, 91.4400 mm): Symbol C24 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(40.6400 mm, 91.4400 mm): Symbol C24 Pin 2 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(26.6700 mm, 91.4400 mm): Symbol C23 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(26.6700 mm, 91.4400 mm): Symbol C23 Pin 2 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(66.0400 mm, 95.2500 mm): Symbol #PWR030 Hidden pin 1 [GND, Power input, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(66.0400 mm, 95.2500 mm): Symbol #PWR030 Hidden pin 1 [GND, Power input, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(53.3400 mm, 64.7700 mm): Symbol #PWR040 Hidden pin 1 [GND, Power input, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(53.3400 mm, 59.6900 mm): Symbol C26 Pin 2 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(53.3400 mm, 59.6900 mm): Symbol C26 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(53.3400 mm, 64.7700 mm): Symbol #PWR040 Hidden pin 1 [GND, Power input, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+
+***** Sheet /Wireless_module/
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(168.9100 mm, 45.7200 mm): Symbol U4 Pin 37 [VDDA1, Power input, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(168.9100 mm, 45.7200 mm): Symbol U4 Pin 37 [VDDA1, Power input, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(168.9100 mm, 48.2600 mm): Symbol U4 Pin 40 [VDDA2, Power input, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(168.9100 mm, 48.2600 mm): Symbol U4 Pin 40 [VDDA2, Power input, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error
+    @(168.9100 mm, 40.6400 mm): Symbol U4 Pin 2 [VDDA3P3, Power input, Line]
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; Severity: warning
+    @(180.3400 mm, 73.6600 mm): Global Label 'UART0_RX'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; Severity: warning
+    @(180.3400 mm, 76.2000 mm): Global Label 'UART0_TX'
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(189.2300 mm, 39.3700 mm): Symbol C17 Pin 2 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(189.2300 mm, 39.3700 mm): Symbol C17 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(175.2600 mm, 39.3700 mm): Symbol C19 Pin 2 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(175.2600 mm, 39.3700 mm): Symbol C19 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(168.9100 mm, 50.8000 mm): Symbol U4 Pin 23 [VDD_SPI, Power input, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(168.9100 mm, 50.8000 mm): Symbol U4 Pin 23 [VDD_SPI, Power input, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(168.9100 mm, 53.3400 mm): Symbol U4 Pin 5 [VDDPST1, Power input, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(168.9100 mm, 53.3400 mm): Symbol U4 Pin 5 [VDDPST1, Power input, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(168.9100 mm, 55.8800 mm): Symbol U4 Pin 28 [VDDPST2, Power input, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(168.9100 mm, 55.8800 mm): Symbol U4 Pin 28 [VDDPST2, Power input, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(278.1300 mm, 39.3700 mm): Symbol C8 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(266.7000 mm, 39.3700 mm): Symbol C13 Pin 2 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(266.7000 mm, 39.3700 mm): Symbol C13 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(278.1300 mm, 39.3700 mm): Symbol C8 Pin 2 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(254.0000 mm, 39.3700 mm): Symbol C14 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(254.0000 mm, 39.3700 mm): Symbol C14 Pin 2 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(241.3000 mm, 39.3700 mm): Symbol C7 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(241.3000 mm, 39.3700 mm): Symbol C7 Pin 2 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(203.2000 mm, 39.3700 mm): Symbol C18 Pin 2 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(203.2000 mm, 39.3700 mm): Symbol C18 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(215.9000 mm, 39.3700 mm): Symbol C20 Pin 2 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(210.8200 mm, 71.1200 mm): Symbol C15 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(224.7900 mm, 72.3900 mm): Symbol #PWR033 Hidden pin 1 [GND, Power input, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(210.8200 mm, 72.3900 mm): Symbol #PWR032 Hidden pin 1 [GND, Power input, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(210.8200 mm, 72.3900 mm): Symbol #PWR032 Hidden pin 1 [GND, Power input, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(210.8200 mm, 71.1200 mm): Symbol C15 Pin 2 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(228.6000 mm, 39.3700 mm): Symbol C21 Pin 2 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(228.6000 mm, 39.3700 mm): Symbol C21 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(215.9000 mm, 39.3700 mm): Symbol C20 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(224.7900 mm, 71.1200 mm): Symbol C16 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(224.7900 mm, 72.3900 mm): Symbol #PWR033 Hidden pin 1 [GND, Power input, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(224.7900 mm, 71.1200 mm): Symbol C16 Pin 2 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[lib_symbol_issues]: The current configuration does not include the library 'AAVAA_BOARD_VER2_REV1-rescue'
+    ; Severity: warning
+    @(243.8400 mm, 64.7700 mm): Symbol U5 [MLPF-WB55-AAVAA_LIB]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(247.6500 mm, 73.6600 mm): Symbol #PWR034 Hidden pin 1 [GND, Power input, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(247.6500 mm, 73.6600 mm): Symbol U5 Pin 5 [GND, Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(247.6500 mm, 73.6600 mm): Symbol U5 Pin 5 [GND, Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(266.7000 mm, 48.2600 mm): Symbol #PWR022 Hidden pin 1 [GND, Power input, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(266.7000 mm, 48.2600 mm): Symbol #PWR022 Hidden pin 1 [GND, Power input, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(242.5700 mm, 73.6600 mm): Symbol U5 Pin 2 [GND, Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(242.5700 mm, 73.6600 mm): Symbol U5 Pin 2 [GND, Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(245.1100 mm, 73.6600 mm): Symbol U5 Pin 4 [GND, Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(245.1100 mm, 73.6600 mm): Symbol U5 Pin 4 [GND, Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(240.0300 mm, 73.6600 mm): Symbol U5 Pin 6 [GND, Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(240.0300 mm, 73.6600 mm): Symbol U5 Pin 6 [GND, Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[lib_symbol_issues]: The current configuration does not include the library 'ANT2012LL00R2400A'
+    ; Severity: warning
+    @(261.6200 mm, 60.9600 mm): Symbol ANT1 [ANT2012LL00R2400A]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(247.6500 mm, 73.6600 mm): Symbol #PWR034 Hidden pin 1 [GND, Power input, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Bidirectional and Unspecified are connected
+    ; Severity: warning
+    @(168.9100 mm, 96.5200 mm): Symbol U4 Pin 21 [SPIQ/GPIO25, Bidirectional, Line]
+    @(78.7400 mm, 144.7800 mm): Symbol U2 Pin 2 [DO(IO1), Unspecified, Line]
+[pin_to_pin]: Pins of type Bidirectional and Unspecified are connected
+    ; Severity: warning
+    @(168.9100 mm, 99.0600 mm): Symbol U4 Pin 22 [SPIWP/GPIO26, Bidirectional, Line]
+    @(78.7400 mm, 147.3200 mm): Symbol U2 Pin 3 [/WP(IO2), Unspecified, Line]
+[pin_to_pin]: Pins of type Bidirectional and Unspecified are connected
+    ; Severity: warning
+    @(168.9100 mm, 93.9800 mm): Symbol U4 Pin 20 [SPICS0/GPIO24, Bidirectional, Line]
+    @(78.7400 mm, 142.2400 mm): Symbol U2 Pin 1 [/CS, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(168.9100 mm, 111.7600 mm): Symbol U4 Pin 41 [GND, Power input, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(168.9100 mm, 111.7600 mm): Symbol U4 Pin 41 [GND, Power input, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Bidirectional and Unspecified are connected
+    ; Severity: warning
+    @(168.9100 mm, 106.6800 mm): Symbol U4 Pin 26 [SPID/GPIO30, Bidirectional, Line]
+    @(160.0200 mm, 149.8600 mm): Symbol U2 Pin 5 [DI(IO0), Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(185.4200 mm, 114.3000 mm): Symbol #PWR024 Hidden pin 1 [GND, Power input, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(185.4200 mm, 114.3000 mm): Symbol #PWR024 Hidden pin 1 [GND, Power input, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+    @(59.6900 mm, 52.0700 mm): Symbol C27 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+    @(21.5900 mm, 87.6300 mm): Symbol #PWR027 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+    @(21.5900 mm, 85.0900 mm): Symbol C11 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+    @(59.6900 mm, 52.0700 mm): Symbol #PWR044 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Power output are connected
+    ; Severity: warning
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+    @(78.7400 mm, 149.8600 mm): Symbol U2 Pin 4 [GND, Power output, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+    @(73.6600 mm, 156.2100 mm): Symbol #PWR025 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+    @(58.4200 mm, 111.7600 mm): Symbol R11 Pin 1 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+    @(58.4200 mm, 115.5700 mm): Symbol #PWR042 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Bidirectional are connected
+    ; Severity: warning
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+    @(48.2600 mm, 59.6900 mm): Symbol U1 Pin 5 [SDO, Bidirectional, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+    @(21.5900 mm, 104.1400 mm): Symbol #PWR031 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+    @(25.4000 mm, 101.6000 mm): Symbol R6 Pin 1 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+    @(81.2800 mm, 74.9300 mm): Symbol #PWR020 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(58.4200 mm, 115.5700 mm): Symbol #PWR042 Hidden pin 1 [GND, Power input, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(58.4200 mm, 111.7600 mm): Symbol R11 Pin 1 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(73.6600 mm, 156.2100 mm): Symbol #PWR025 Hidden pin 1 [GND, Power input, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(59.6900 mm, 52.0700 mm): Symbol C27 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(59.6900 mm, 52.0700 mm): Symbol #PWR044 Hidden pin 1 [GND, Power input, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[lib_symbol_issues]: Symbol 'ESP32-C6' not found in symbol library 'GS_Connector'
+    ; Severity: warning
+    @(138.4300 mm, 73.6600 mm): Symbol U4 [ESP32-C6]
+[pin_to_pin]: Pins of type Bidirectional and Unspecified are connected
+    ; Severity: warning
+    @(107.9500 mm, 63.5000 mm): Symbol U4 Pin 39 [XTAL_P, Bidirectional, Line]
+    @(30.4800 mm, 71.1200 mm): Symbol XTAL1 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Bidirectional and Unspecified are connected
+    ; Severity: warning
+    @(107.9500 mm, 66.0400 mm): Symbol U4 Pin 38 [XTAL_N, Bidirectional, Line]
+    @(55.8800 mm, 73.6600 mm): Symbol XTAL1 Pin 3 [3, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Bidirectional are connected
+    ; Severity: warning
+    @(160.0200 mm, 147.3200 mm): Symbol U2 Pin 6 [CLK, Unspecified, Line]
+    @(168.9100 mm, 104.1400 mm): Symbol U4 Pin 25 [SPICLK/GPIO29, Bidirectional, Line]
+[pin_to_pin]: Pins of type Power output and Unspecified are connected
+    ; Severity: warning
+    @(78.7400 mm, 149.8600 mm): Symbol U2 Pin 4 [GND, Power output, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power output and Bidirectional are connected
+    ; Severity: warning
+    @(78.7400 mm, 149.8600 mm): Symbol U2 Pin 4 [GND, Power output, Line]
+    @(48.2600 mm, 59.6900 mm): Symbol U1 Pin 5 [SDO, Bidirectional, Line]
+[pin_to_pin]: Pins of type Unspecified and Bidirectional are connected
+    ; Severity: warning
+    @(160.0200 mm, 144.7800 mm): Symbol U2 Pin 7 [/HOLD_OR_/RESET(IO3), Unspecified, Line]
+    @(168.9100 mm, 101.6000 mm): Symbol U4 Pin 24 [SPIHD/GPIO28, Bidirectional, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(21.5900 mm, 77.4700 mm): Symbol C11 Pin 1 [Passive, Line]
+    @(30.4800 mm, 71.1200 mm): Symbol XTAL1 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+    @(78.7400 mm, 67.3100 mm): Symbol U1 Pin 7 [GND__1, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+    @(81.2800 mm, 59.6900 mm): Symbol C5 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+    @(78.7400 mm, 64.7700 mm): Symbol U1 Pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+    @(92.7100 mm, 59.6900 mm): Symbol C6 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+    @(55.8800 mm, 60.9600 mm): Symbol J1 Pin 9 [9, Passive, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(21.5900 mm, 85.0900 mm): Symbol C11 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(21.5900 mm, 87.6300 mm): Symbol #PWR027 Hidden pin 1 [GND, Power input, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(66.0400 mm, 87.6300 mm): Symbol #PWR028 Hidden pin 1 [GND, Power input, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(66.0400 mm, 87.6300 mm): Symbol #PWR028 Hidden pin 1 [GND, Power input, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(66.0400 mm, 77.4700 mm): Symbol C12 Pin 1 [Passive, Line]
+    @(55.8800 mm, 73.6600 mm): Symbol XTAL1 Pin 3 [3, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(66.0400 mm, 85.0900 mm): Symbol C12 Pin 2 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(66.0400 mm, 85.0900 mm): Symbol C12 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+    @(55.8800 mm, 53.3400 mm): Symbol J1 Pin 3 [3, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+    @(55.8800 mm, 55.8800 mm): Symbol J1 Pin 5 [5, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+    @(44.4500 mm, 64.7700 mm): Symbol #PWR019 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+    @(78.7400 mm, 67.3100 mm): Symbol U1 Pin 7 [GND__1, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+    @(81.2800 mm, 59.6900 mm): Symbol C5 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+    @(78.7400 mm, 64.7700 mm): Symbol U1 Pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+    @(92.7100 mm, 59.6900 mm): Symbol C6 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+    @(55.8800 mm, 60.9600 mm): Symbol J1 Pin 9 [9, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+    @(55.8800 mm, 53.3400 mm): Symbol J1 Pin 3 [3, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+    @(55.8800 mm, 55.8800 mm): Symbol J1 Pin 5 [5, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+    @(44.4500 mm, 64.7700 mm): Symbol #PWR019 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+    @(81.2800 mm, 74.9300 mm): Symbol #PWR020 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+    @(21.5900 mm, 104.1400 mm): Symbol #PWR031 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+    @(25.4000 mm, 101.6000 mm): Symbol R6 Pin 1 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Bidirectional are connected
+    ; Severity: warning
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+    @(48.2600 mm, 59.6900 mm): Symbol U1 Pin 5 [SDO, Bidirectional, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(193.0400 mm, 151.1300 mm): Symbol C10 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(193.0400 mm, 151.1300 mm): Symbol C10 Pin 2 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(181.6100 mm, 151.1300 mm): Symbol C9 Pin 2 [Passive, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(181.6100 mm, 151.1300 mm): Symbol C9 Pin 2 [Passive, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(181.6100 mm, 153.6700 mm): Symbol #PWR026 Hidden pin 1 [GND, Power input, Line]
+    @(30.4800 mm, 73.6600 mm): Symbol XTAL1 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(181.6100 mm, 153.6700 mm): Symbol #PWR026 Hidden pin 1 [GND, Power input, Line]
+    @(55.8800 mm, 71.1200 mm): Symbol XTAL1 Pin 4 [4, Unspecified, Line]
+
+***** Sheet /IMU/
+[lib_symbol_issues]: Symbol 'BME280' not found in symbol library 'GS_Connector'
+    ; Severity: warning
+    @(63.5000 mm, 54.6100 mm): Symbol U1 [BME280]
+
+***** Sheet /Connectors/
+[label_dangling]: Label not connected to anything
+    ; Severity: error
+    @(73.6600 mm, 82.5500 mm): Global Label 'UART2tx_DEBUG'
+[label_dangling]: Label not connected to anything
+    ; Severity: error
+    @(73.6600 mm, 85.0900 mm): Global Label 'UART2rx_DEBUG'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; Severity: warning
+    @(88.9000 mm, 55.8800 mm): Global Label 'SWO'
+
+ ** ERC messages: 292  Errors 7  Warnings 285

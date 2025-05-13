@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32C051G8U6
+D Mainstream Arm Cortex-M0+ MCU with 64 Kbytes of Flash memory, 12 Kbytes RAM, 48 MHz CPU, 2x USART, timers, ADC, comm. I/F, USB FS, 2-3.6V
+K
+F https://www.st.com/resource/en/datasheet/stm32c051c6.pdf
+$ENDCMP
+#
+#End Doc Library

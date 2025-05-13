@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "GS_Connector")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/GS_Connectors/BD125-10-A-0305-0580-L-B.kicad_sym")(options "")(descr ""))
+  (lib (name "GS_ICs")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/GS_ICs/STM32C051G8U6.kicad_sym")(options "")(descr ""))
+  (lib (name "GS_other")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/GS_other/PESD5V0S1BL_315.kicad_sym")(options "")(descr ""))
+)

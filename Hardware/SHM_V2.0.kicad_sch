@@ -1,0 +1,90 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid d49f24f7-fafb-4980-9872-8196cfcf12b2)
+
+  (paper "A4")
+
+  (title_block
+    (title "Smart Home Monitoring System")
+    (date "2025-05-13")
+    (rev "1.00")
+    (comment 1 "Gaurang Solanki")
+    (comment 2 "Designed by")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 15.24 16.51) (size 139.7 67.31) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 29269aaa-9f93-4093-9649-17e84259fa64)
+    (property "Sheetname" "Power management" (at 15.24 15.7984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Power_management.kicad_sch" (at 15.24 84.4046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "SHM_V2.0"
+        (path "/d49f24f7-fafb-4980-9872-8196cfcf12b2" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 177.8 90.17) (size 101.6 68.58) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 31ea724c-9db8-4608-b36e-6733995a286f)
+    (property "Sheetname" "Sensors" (at 177.8 89.4584 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "sensors.kicad_sch" (at 177.8 159.3346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "SHM_V2.0"
+        (path "/d49f24f7-fafb-4980-9872-8196cfcf12b2" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 177.8 16.51) (size 101.6 67.31) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 949987f2-1d42-4381-94c0-761bf7538967)
+    (property "Sheetname" "Wireless_module" (at 177.8 15.7984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Wireless_module.kicad_sch" (at 177.8 84.4046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "SHM_V2.0"
+        (path "/d49f24f7-fafb-4980-9872-8196cfcf12b2" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 15.24 90.17) (size 139.7 68.58) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid cee918b1-f1f9-4a7f-8a4d-3bd4d13ebaf9)
+    (property "Sheetname" "Connectors" (at 15.24 89.4584 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Connectors.kicad_sch" (at 15.24 159.3346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "SHM_V2.0"
+        (path "/d49f24f7-fafb-4980-9872-8196cfcf12b2" (page "6"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

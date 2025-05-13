@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "GS_Connector")(type "KiCad")(uri "${KIPRJMOD}/libs/footprints/GS_Connector")(options "")(descr ""))
+  (lib (name "GS_ICs")(type "KiCad")(uri "${KIPRJMOD}/libs/footprints/GS_ICs")(options "")(descr ""))
+  (lib (name "GS_other")(type "KiCad")(uri "${KIPRJMOD}/libs/footprints/GS_other")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/libs/footprints/GS_other/Library.pretty")(options "")(descr ""))
+)
